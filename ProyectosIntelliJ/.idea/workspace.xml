@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1c120d-827d-41e4-8710-da0662f282ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Prog-c4/src/com/digitalhouse/poo/clase5/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prog-c4/src/com/digitalhouse/poo/clase5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog-c4/src/com/digitalhouse/poo/OTRO/Impresora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog-c4/src/com/digitalhouse/poo/OTRO/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog-c4/src/com/digitalhouse/poo/clase6/Impresora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prog-c4/src/com/digitalhouse/poo/clase6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prog-c4/src/com/digitalhouse/poo/clase5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prog-c4/src/com/digitalhouse/poo/clase5/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MAKfDxt88fps18hCyogY91ANI9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,9 +39,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/jualm/OneDrive/Escritorio/DH/OrientadaObjetos/ProyectosIntelliJ"
+    "last_opened_file_path": "C:/Users/jualm/OneDrive/Escritorio/DH/OrientadaObjetos/ProyectosIntelliJ",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.digitalhouse.poo.clase6" />
+      <recent name="com.digitalhouse.poo.clase6.Impresora" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
